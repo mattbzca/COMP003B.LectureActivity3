@@ -1,3 +1,9 @@
+/*
+ * Author: Matthew Tan 
+ * Course: COMP-003B:ASP.NET Core
+ * Faculty: Jonathan Cruz
+ * Purpose: Demonstrates routing, model binding, and validation in ASP.NET Core MVC. 
+ */
 namespace COMP003B.LectureActivity3
 {
     public class Program
