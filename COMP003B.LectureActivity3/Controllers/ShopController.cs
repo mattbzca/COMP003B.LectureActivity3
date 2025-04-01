@@ -14,7 +14,7 @@ namespace COMP003B.LectureActivity3.Controllers
         [HttpGet]
         public IActionResult Details(int id)
         {
-            return View();
+            return View(id);
         }
     }
 }
